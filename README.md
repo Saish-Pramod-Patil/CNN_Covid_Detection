@@ -51,6 +51,10 @@ Each class contains **133 X-ray images** for balanced training and evaluation.
 ## 📈 Results
 
 - Trained on ~530 images (balanced across 4 classes)
-- Achieved high accuracy on test set
+- Achieved high accuracy on test set (~ 82%)
 - Visualized using training/validation accuracy/loss plots and confusion matrix
 
+---
+
+## 📌 Note
+This project is for educational and research purposes and should not be used for clinical decision making.
